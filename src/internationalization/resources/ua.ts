@@ -1,0 +1,45 @@
+import en from './en'
+
+const ua: typeof en = {
+    translation: {
+        "\n\t\tsidebar\n\t\tlinks\n\t\tcalendar\n\t": "Календар",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\tsunday\n\t": "Вс",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\tmonday\n\t": "Пн",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\ttuesday\n\t": "Вт",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\twednesday\n\t": "Ср",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\tthursday\n\t": "Чт",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\tfriday\n\t": "Пт",
+        "\n\t\tcalendar\n\t\tdays-of-the-week\n\t\tsaturday\n\t": "Сб",
+        "\n\t\tcalendar\n\t\theader\n\t\tjanuary\n\t": "СІЧЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tfebruary\n\t": "ЛЮТИЙ",
+        "\n\t\tcalendar\n\t\theader\n\t\tmarch\n\t": "БЕРЕЗЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tapril\n\t": "КВІТЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tmay\n\t": "ТРАВЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tjune\n\t": "ЧЕРВЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tjuly\n\t": "ЛИПЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\taugust\n\t": "СЕРПЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tseptember\n\t": "ВЕРЕСЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\toctober\n\t": "ЖОВТЕНЬ",
+        "\n\t\tcalendar\n\t\theader\n\t\tnovember\n\t": "ЛИСТОПАД",
+        "\n\t\tcalendar\n\t\theader\n\t\tdecember\n\t": "ГРУДЕНЬ",
+        "\n\t\tcalendar\n\t\tnavigation\n\t\tnext\n\t": "Уперед",
+        "\n\t\tcalendar\n\t\tnavigation\n\t\tprevious\n\t": "Назад",
+        "\n\t\tto-do-list\n\t\theader\n\t": "Список справ",
+        "\n\t\tto-do-list\n\t\tcreator\n\t\theader\n\t": "Заголовок",
+        "\n\t\tto-do-list\n\t\tcreator\n\t\tcontent\n\t": "Контент",
+        "\n\t\tto-do-list\n\t\tcreator\n\t\tbutton\n\t": "Створити",
+        "\n\t\tnot-found\n\t\theader\n\t": "Не знайдено",
+        "\n\t\tauth\n\t\tlogin\n\t\theader\n\t": "Вхід",
+        "\n\t\tauth\n\t\tlogin\n\t\tlogin\n\t": "Уведіть ваш логін",
+        "\n\t\tauth\n\t\tlogin\n\t\tpassword\n\t": "Уведіть ваш пароль",
+        "\n\t\tauth\n\t\tlogin\n\t\tsubmit\n\t": "Надіслати",
+        "\n\t\tauth\n\t\tregister\n\t\theader\n\t": "Реєстрація",
+        "\n\t\tauth\n\t\tregister\n\t\tname\n\t": "Уведіть ваше ім'я",
+        "\n\t\tauth\n\t\tregister\n\t\tlogin\n\t": "Уведіть ваш логін",
+        "\n\t\tauth\n\t\tregister\n\t\tpassword\n\t": "Уведіть ваш пароль",
+        "\n\t\tauth\n\t\tregister\n\t\tsubmit\n\t": "Надіслати",
+        "\n\t\theader\n\t\tprofile\n\t\tsign-out\n\t": "Вийти",
+    }
+}
+
+export default ua
